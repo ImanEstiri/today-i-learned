@@ -1,0 +1,12 @@
+# -----------------------------------------------------------------------------
+# Today-I-Learned repository
+# -----------------------------------------------------------------------------
+
+# assets
+/code-dump.bat
+/code-dump-result.md
+/tree-view.bat
+/tree-view-result.txt
+
+# tools folder
+/Tools/
