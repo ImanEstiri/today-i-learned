@@ -4,7 +4,13 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**1 notes** in **1 categories**
+**2 notes** in **2 categories**
+
+## Blazor (1)
+
+| Title | Date |
+|---|---|
+| [Razor code-behind classes cannot be internal](blazor/2026-06-01-razor-code-behind-classes-cannot-be-internal.md) | 2026/06/01 |
 
 ## NuGet (1)
 
