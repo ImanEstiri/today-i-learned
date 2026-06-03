@@ -4,7 +4,13 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**2 notes** in **2 categories**
+**3 notes** in **3 categories**
+
+## .NET (1)
+
+| Title | Date |
+|---|---|
+| [Use ThrowIfNull instead of manual null checks](dotnet/2026-06-03-use-throwifnull-instead-of-manual-null-checks.md) | 2026/06/03 |
 
 ## Blazor (1)
 
