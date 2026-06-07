@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**7 notes** in **3 categories**
+**8 notes** in **4 categories**
 
 ## .NET (5)
 
@@ -27,5 +27,11 @@ Short notes on things I learn while coding.
 | Title | Date |
 |---|---|
 | [NuGet versions are immutable](nuget/2026-06-01-nuget-versions-are-immutable.md) | 2026/06/01 |
+
+## SQL Server (1)
+
+| Title | Date |
+|---|---|
+| [COUNT(*) vs COUNT(column)](sql-server/2026-06-07-count-vs-count-column.md) | 2026/06/07 |
 
 <!-- INDEX:END -->
