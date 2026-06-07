@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**10 notes** in **4 categories**
+**11 notes** in **4 categories**
 
 ## .NET (6)
 
@@ -17,10 +17,11 @@ Short notes on things I learn while coding.
 | [IsNullOrEmpty vs IsNullOrWhiteSpace](dotnet/2026-06-03-isnullorempty-vs-isnullorwhitespace.md) | 2026/06/03 |
 | [Use ThrowIfNull instead of manual null checks](dotnet/2026-06-03-use-throwifnull-instead-of-manual-null-checks.md) | 2026/06/03 |
 
-## Blazor (1)
+## Blazor (2)
 
 | Title | Date |
 |---|---|
+| [OnInitialized runs twice in Blazor Server](blazor/2026-06-07-oninitialized-runs-twice-in-blazor-server.md) | 2026/06/07 |
 | [Razor code-behind classes cannot be internal](blazor/2026-06-01-razor-code-behind-classes-cannot-be-internal.md) | 2026/06/01 |
 
 ## NuGet (1)
