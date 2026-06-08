@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**11 notes** in **4 categories**
+**12 notes** in **5 categories**
 
 ## .NET (6)
 
@@ -23,6 +23,12 @@ Short notes on things I learn while coding.
 |---|---|
 | [OnInitialized runs twice in Blazor Server](blazor/2026-06-07-oninitialized-runs-twice-in-blazor-server.md) | 2026/06/07 |
 | [Razor code-behind classes cannot be internal](blazor/2026-06-01-razor-code-behind-classes-cannot-be-internal.md) | 2026/06/01 |
+
+## Git (1)
+
+| Title | Date |
+|---|---|
+| [Undo the last commit but keep the changes](git/2026-06-08-undo-the-last-commit-but-keep-the-changes.md) | 2026/06/08 |
 
 ## NuGet (1)
 
