@@ -4,12 +4,13 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**12 notes** in **5 categories**
+**14 notes** in **5 categories**
 
-## .NET (6)
+## .NET (7)
 
 | Title | Date |
 |---|---|
+| [Use var when the type is obvious, not when it hides it](dotnet/2026-06-08-use-var-when-the-type-is-obvious-not-when-it-hides-it.md) | 2026/06/08 |
 | [Use string interpolation instead of concatenation](dotnet/2026-06-07-use-string-interpolation-instead-of-concatenation.md) | 2026/06/07 |
 | [Switch expressions are cleaner than switch statements](dotnet/2026-06-06-switch-expressions-are-cleaner-than-switch-statements.md) | 2026/06/06 |
 | [Don't inject primitives, use an options class](dotnet/2026-06-05-don-t-inject-primitives-use-an-options-class.md) | 2026/06/05 |
@@ -24,10 +25,11 @@ Short notes on things I learn while coding.
 | [OnInitialized runs twice in Blazor Server](blazor/2026-06-07-oninitialized-runs-twice-in-blazor-server.md) | 2026/06/07 |
 | [Razor code-behind classes cannot be internal](blazor/2026-06-01-razor-code-behind-classes-cannot-be-internal.md) | 2026/06/01 |
 
-## Git (1)
+## Git (2)
 
 | Title | Date |
 |---|---|
+| [Give your stashes a name](git/2026-06-08-give-your-stashes-a-name.md) | 2026/06/08 |
 | [Undo the last commit but keep the changes](git/2026-06-08-undo-the-last-commit-but-keep-the-changes.md) | 2026/06/08 |
 
 ## NuGet (1)
