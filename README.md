@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**14 notes** in **5 categories**
+**15 notes** in **5 categories**
 
 ## .NET (7)
 
@@ -38,10 +38,11 @@ Short notes on things I learn while coding.
 |---|---|
 | [NuGet versions are immutable](nuget/2026-06-01-nuget-versions-are-immutable.md) | 2026/06/01 |
 
-## SQL Server (2)
+## SQL Server (3)
 
 | Title | Date |
 |---|---|
+| [Use EXISTS instead of COUNT(*) to check if rows exist](sql-server/2026-06-08-use-exists-instead-of-count-to-check-if-rows-exist.md) | 2026/06/08 |
 | [COUNT(*) vs COUNT(column)](sql-server/2026-06-07-count-vs-count-column.md) | 2026/06/07 |
 | [WHERE filters rows, HAVING filters groups](sql-server/2026-06-07-where-filters-rows-having-filters-groups.md) | 2026/06/07 |
 
