@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**16 notes** in **5 categories**
+**17 notes** in **6 categories**
 
 ## .NET (7)
 
@@ -46,5 +46,11 @@ Short notes on things I learn while coding.
 | [Use EXISTS instead of COUNT(*) to check if rows exist](sql-server/2026-06-08-use-exists-instead-of-count-to-check-if-rows-exist.md) | 2026/06/08 |
 | [COUNT(*) vs COUNT(column)](sql-server/2026-06-07-count-vs-count-column.md) | 2026/06/07 |
 | [WHERE filters rows, HAVING filters groups](sql-server/2026-06-07-where-filters-rows-having-filters-groups.md) | 2026/06/07 |
+
+## Python (1)
+
+| Title | Date |
+|---|---|
+| [f-strings are the default way to format text](python/2026-06-10-f-strings-are-the-default-way-to-format-text.md) | 2026/06/10 |
 
 <!-- INDEX:END -->
