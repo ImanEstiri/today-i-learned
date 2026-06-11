@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**17 notes** in **6 categories**
+**18 notes** in **6 categories**
 
 ## .NET (7)
 
@@ -47,10 +47,11 @@ Short notes on things I learn while coding.
 | [COUNT(*) vs COUNT(column)](sql-server/2026-06-07-count-vs-count-column.md) | 2026/06/07 |
 | [WHERE filters rows, HAVING filters groups](sql-server/2026-06-07-where-filters-rows-having-filters-groups.md) | 2026/06/07 |
 
-## Python (1)
+## Python (2)
 
 | Title | Date |
 |---|---|
+| [Indentation is syntax, not style](python/2026-06-11-indentation-is-syntax-not-style.md) | 2026/06/11 |
 | [f-strings are the default way to format text](python/2026-06-10-f-strings-are-the-default-way-to-format-text.md) | 2026/06/10 |
 
 <!-- INDEX:END -->
