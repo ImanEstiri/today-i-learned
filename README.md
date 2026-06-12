@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**19 notes** in **6 categories**
+**20 notes** in **6 categories**
 
 ## .NET (7)
 
@@ -47,10 +47,11 @@ Short notes on things I learn while coding.
 | [COUNT(*) vs COUNT(column)](sql-server/2026-06-07-count-vs-count-column.md) | 2026/06/07 |
 | [WHERE filters rows, HAVING filters groups](sql-server/2026-06-07-where-filters-rows-having-filters-groups.md) | 2026/06/07 |
 
-## Python (3)
+## Python (4)
 
 | Title | Date |
 |---|---|
+| [The built-in types you actually use](python/2026-06-12-the-built-in-types-you-actually-use.md) | 2026/06/12 |
 | [Indentation is syntax, not style](python/2026-06-11-indentation-is-syntax-not-style.md) | 2026/06/11 |
 | [Lists are mutable, tuples are not](python/2026-06-11-lists-are-mutable-tuples-are-not.md) | 2026/06/11 |
 | [f-strings are the default way to format text](python/2026-06-10-f-strings-are-the-default-way-to-format-text.md) | 2026/06/10 |
