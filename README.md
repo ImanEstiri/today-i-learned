@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**27 notes** in **6 categories**
+**29 notes** in **6 categories**
 
 ## .NET (7)
 
@@ -47,14 +47,16 @@ Short notes on things I learn while coding.
 | [COUNT(*) vs COUNT(column)](sql-server/2026-06-07-count-vs-count-column.md) | 2026/06/07 |
 | [WHERE filters rows, HAVING filters groups](sql-server/2026-06-07-where-filters-rows-having-filters-groups.md) | 2026/06/07 |
 
-## Python (11)
+## Python (13)
 
 | Title | Date |
 |---|---|
+| [*args and **kwargs](python/2026-06-15-args-and-kwargs.md) | 2026/06/15 |
 | [if statements — no parentheses, colon at the end](python/2026-06-15-if-statements-no-parentheses-colon-at-the-end.md) | 2026/06/15 |
 | [Comprehensions build collections in one line](python/2026-06-14-comprehensions-build-collections-in-one-line.md) | 2026/06/14 |
 | [for loops iterate over anything](python/2026-06-14-for-loops-iterate-over-anything.md) | 2026/06/14 |
 | [Never use a mutable default argument](python/2026-06-14-never-use-a-mutable-default-argument.md) | 2026/06/14 |
+| [while loops — same as C#, minus the parentheses](python/2026-06-14-while-loops-same-as-c-minus-the-parentheses.md) | 2026/06/14 |
 | [Mutable vs immutable — the split that matters](python/2026-06-13-mutable-vs-immutable-the-split-that-matters.md) | 2026/06/13 |
 | [The built-in types you actually use](python/2026-06-12-the-built-in-types-you-actually-use.md) | 2026/06/12 |
 | [The four collection types and when to use each](python/2026-06-12-the-four-collection-types-and-when-to-use-each.md) | 2026/06/12 |
