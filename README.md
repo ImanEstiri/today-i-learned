@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**32 notes** in **6 categories**
+**33 notes** in **6 categories**
 
 ## .NET (7)
 
@@ -38,11 +38,12 @@ Short notes on things I learn while coding.
 |---|---|
 | [NuGet versions are immutable](nuget/2026-06-01-nuget-versions-are-immutable.md) | 2026/06/01 |
 
-## SQL Server (5)
+## SQL Server (6)
 
 | Title | Date |
 |---|---|
 | [OFFSET/FETCH for paging, not TOP](sql-server/2026-06-16-offset-fetch-for-paging-not-top.md) | 2026/06/16 |
+| [WHERE vs ON in a LEFT JOIN](sql-server/2026-06-16-where-vs-on-in-a-left-join.md) | 2026/06/16 |
 | [NULL comparisons need IS NULL, not = NULL](sql-server/2026-06-09-null-comparisons-need-is-null-not-null.md) | 2026/06/09 |
 | [Use EXISTS instead of COUNT(*) to check if rows exist](sql-server/2026-06-08-use-exists-instead-of-count-to-check-if-rows-exist.md) | 2026/06/08 |
 | [COUNT(*) vs COUNT(column)](sql-server/2026-06-07-count-vs-count-column.md) | 2026/06/07 |
