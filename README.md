@@ -4,12 +4,13 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**33 notes** in **6 categories**
+**34 notes** in **6 categories**
 
-## .NET (7)
+## .NET (8)
 
 | Title | Date |
 |---|---|
+| [Null-coalescing operators ?? and ??=](dotnet/2026-06-16-null-coalescing-operators-and.md) | 2026/06/16 |
 | [Use var when the type is obvious, not when it hides it](dotnet/2026-06-08-use-var-when-the-type-is-obvious-not-when-it-hides-it.md) | 2026/06/08 |
 | [Use string interpolation instead of concatenation](dotnet/2026-06-07-use-string-interpolation-instead-of-concatenation.md) | 2026/06/07 |
 | [Switch expressions are cleaner than switch statements](dotnet/2026-06-06-switch-expressions-are-cleaner-than-switch-statements.md) | 2026/06/06 |
