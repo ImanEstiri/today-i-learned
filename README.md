@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**39 notes** in **6 categories**
+**40 notes** in **6 categories**
 
 ## .NET (10)
 
@@ -28,10 +28,11 @@ Short notes on things I learn while coding.
 | [OnInitialized runs twice in Blazor Server](blazor/2026-06-07-oninitialized-runs-twice-in-blazor-server.md) | 2026/06/07 |
 | [Razor code-behind classes cannot be internal](blazor/2026-06-01-razor-code-behind-classes-cannot-be-internal.md) | 2026/06/01 |
 
-## Git (2)
+## Git (3)
 
 | Title | Date |
 |---|---|
+| [Cherry-pick a single commit from another branch](git/2026-06-17-cherry-pick-a-single-commit-from-another-branch.md) | 2026/06/17 |
 | [Give your stashes a name](git/2026-06-08-give-your-stashes-a-name.md) | 2026/06/08 |
 | [Undo the last commit but keep the changes](git/2026-06-08-undo-the-last-commit-but-keep-the-changes.md) | 2026/06/08 |
 
