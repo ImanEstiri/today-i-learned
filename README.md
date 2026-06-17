@@ -4,12 +4,13 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**37 notes** in **6 categories**
+**38 notes** in **6 categories**
 
-## .NET (8)
+## .NET (9)
 
 | Title | Date |
 |---|---|
+| [Pattern matching works outside switch](dotnet/2026-06-17-pattern-matching-works-outside-switch.md) | 2026/06/17 |
 | [Null-coalescing operators ?? and ??=](dotnet/2026-06-16-null-coalescing-operators-and.md) | 2026/06/16 |
 | [Use var when the type is obvious, not when it hides it](dotnet/2026-06-08-use-var-when-the-type-is-obvious-not-when-it-hides-it.md) | 2026/06/08 |
 | [Use string interpolation instead of concatenation](dotnet/2026-06-07-use-string-interpolation-instead-of-concatenation.md) | 2026/06/07 |
