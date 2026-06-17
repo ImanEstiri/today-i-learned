@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**35 notes** in **6 categories**
+**36 notes** in **6 categories**
 
 ## .NET (8)
 
@@ -50,10 +50,11 @@ Short notes on things I learn while coding.
 | [COUNT(*) vs COUNT(column)](sql-server/2026-06-07-count-vs-count-column.md) | 2026/06/07 |
 | [WHERE filters rows, HAVING filters groups](sql-server/2026-06-07-where-filters-rows-having-filters-groups.md) | 2026/06/07 |
 
-## Python (16)
+## Python (17)
 
 | Title | Date |
 |---|---|
+| [try / except / else / finally](python/2026-06-17-try-except-else-finally.md) | 2026/06/17 |
 | [Read and write files with with](python/2026-06-16-read-and-write-files-with-with.md) | 2026/06/16 |
 | [*args and **kwargs](python/2026-06-15-args-and-kwargs.md) | 2026/06/15 |
 | [if statements — no parentheses, colon at the end](python/2026-06-15-if-statements-no-parentheses-colon-at-the-end.md) | 2026/06/15 |
