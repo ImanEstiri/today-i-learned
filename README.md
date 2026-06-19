@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**49 notes** in **6 categories**
+**50 notes** in **6 categories**
 
 ## .NET (12)
 
@@ -30,10 +30,11 @@ Short notes on things I learn while coding.
 | [OnInitialized runs twice in Blazor Server](blazor/2026-06-07-oninitialized-runs-twice-in-blazor-server.md) | 2026/06/07 |
 | [Razor code-behind classes cannot be internal](blazor/2026-06-01-razor-code-behind-classes-cannot-be-internal.md) | 2026/06/01 |
 
-## Git (5)
+## Git (6)
 
 | Title | Date |
 |---|---|
+| [reflog finds commits you thought you lost](git/2026-06-19-reflog-finds-commits-you-thought-you-lost.md) | 2026/06/19 |
 | [.gitignore doesn't work on files Git already tracks](git/2026-06-18-gitignore-doesn-t-work-on-files-git-already-tracks.md) | 2026/06/18 |
 | [Fix the last commit message without touching the files](git/2026-06-18-fix-the-last-commit-message-without-touching-the-files.md) | 2026/06/18 |
 | [Cherry-pick a single commit from another branch](git/2026-06-17-cherry-pick-a-single-commit-from-another-branch.md) | 2026/06/17 |
