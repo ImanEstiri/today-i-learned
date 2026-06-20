@@ -4,12 +4,13 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**45 notes** in **6 categories**
+**46 notes** in **6 categories**
 
-## .NET (10)
+## .NET (11)
 
 | Title | Date |
 |---|---|
+| [String comparison: Ordinal vs culture](dotnet/2026-06-20-string-comparison-ordinal-vs-culture.md) | 2026/06/20 |
 | [Pattern matching works outside switch](dotnet/2026-06-17-pattern-matching-works-outside-switch.md) | 2026/06/17 |
 | [When to use record instead of class](dotnet/2026-06-17-when-to-use-record-instead-of-class.md) | 2026/06/17 |
 | [Null-coalescing operators ?? and ??=](dotnet/2026-06-16-null-coalescing-operators-and.md) | 2026/06/16 |
