@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**48 notes** in **6 categories**
+**49 notes** in **6 categories**
 
 ## .NET (12)
 
@@ -46,11 +46,12 @@ Short notes on things I learn while coding.
 |---|---|
 | [NuGet versions are immutable](nuget/2026-06-01-nuget-versions-are-immutable.md) | 2026/06/01 |
 
-## SQL Server (7)
+## SQL Server (8)
 
 | Title | Date |
 |---|---|
 | [DELETE vs TRUNCATE](sql-server/2026-06-20-delete-vs-truncate.md) | 2026/06/20 |
+| [EXISTS vs IN](sql-server/2026-06-20-exists-vs-in.md) | 2026/06/20 |
 | [OFFSET/FETCH for paging, not TOP](sql-server/2026-06-16-offset-fetch-for-paging-not-top.md) | 2026/06/16 |
 | [WHERE vs ON in a LEFT JOIN](sql-server/2026-06-16-where-vs-on-in-a-left-join.md) | 2026/06/16 |
 | [NULL comparisons need IS NULL, not = NULL](sql-server/2026-06-09-null-comparisons-need-is-null-not-null.md) | 2026/06/09 |
