@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**53 notes** in **6 categories**
+**54 notes** in **6 categories**
 
 ## .NET (14)
 
@@ -63,10 +63,11 @@ Short notes on things I learn while coding.
 | [COUNT(*) vs COUNT(column)](sql-server/2026-06-07-count-vs-count-column.md) | 2026/06/07 |
 | [WHERE filters rows, HAVING filters groups](sql-server/2026-06-07-where-filters-rows-having-filters-groups.md) | 2026/06/07 |
 
-## Python (21)
+## Python (22)
 
 | Title | Date |
 |---|---|
+| [json and datetime basics](python/2026-06-21-json-and-datetime-basics.md) | 2026/06/21 |
 | [dataclasses remove the boilerplate](python/2026-06-19-dataclasses-remove-the-boilerplate.md) | 2026/06/19 |
 | [dict.get and dict.setdefault](python/2026-06-19-dict-get-and-dict-setdefault.md) | 2026/06/19 |
 | [if __name__ == "__main__"](python/2026-06-19-if-name-main.md) | 2026/06/19 |
