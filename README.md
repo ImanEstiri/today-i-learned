@@ -4,12 +4,13 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**51 notes** in **6 categories**
+**52 notes** in **6 categories**
 
-## .NET (12)
+## .NET (13)
 
 | Title | Date |
 |---|---|
+| [Use StringBuilder in loops, not string +=](dotnet/2026-06-21-use-stringbuilder-in-loops-not-string.md) | 2026/06/21 |
 | [Central Package Management (CPM)](dotnet/2026-06-20-central-package-management-cpm.md) | 2026/06/20 |
 | [String comparison: Ordinal vs culture](dotnet/2026-06-20-string-comparison-ordinal-vs-culture.md) | 2026/06/20 |
 | [Pattern matching works outside switch](dotnet/2026-06-17-pattern-matching-works-outside-switch.md) | 2026/06/17 |
