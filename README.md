@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**58 notes** in **6 categories**
+**59 notes** in **6 categories**
 
 ## .NET (14)
 
@@ -51,10 +51,11 @@ Short notes on things I learn while coding.
 |---|---|
 | [NuGet versions are immutable](nuget/2026-06-01-nuget-versions-are-immutable.md) | 2026/06/01 |
 
-## SQL Server (10)
+## SQL Server (11)
 
 | Title | Date |
 |---|---|
+| [CASE evaluates branches, not short-circuits like C#](sql-server/2026-06-23-case-evaluates-branches-not-short-circuits-like-c.md) | 2026/06/23 |
 | [Implicit conversion can silently kill your index](sql-server/2026-06-22-implicit-conversion-can-silently-kill-your-index.md) | 2026/06/22 |
 | [UNION vs UNION ALL](sql-server/2026-06-22-union-vs-union-all.md) | 2026/06/22 |
 | [DELETE vs TRUNCATE](sql-server/2026-06-20-delete-vs-truncate.md) | 2026/06/20 |
