@@ -4,12 +4,13 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**59 notes** in **6 categories**
+**60 notes** in **6 categories**
 
-## .NET (14)
+## .NET (15)
 
 | Title | Date |
 |---|---|
+| [yield return builds a lazy sequence](dotnet/2026-06-23-yield-return-builds-a-lazy-sequence.md) | 2026/06/23 |
 | [IEnumerable is lazy — it runs every time you enumerate](dotnet/2026-06-21-ienumerable-is-lazy-it-runs-every-time-you-enumerate.md) | 2026/06/21 |
 | [Use StringBuilder in loops, not string +=](dotnet/2026-06-21-use-stringbuilder-in-loops-not-string.md) | 2026/06/21 |
 | [Central Package Management (CPM)](dotnet/2026-06-20-central-package-management-cpm.md) | 2026/06/20 |
