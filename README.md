@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**61 notes** in **6 categories**
+**62 notes** in **6 categories**
 
 ## .NET (15)
 
@@ -68,11 +68,12 @@ Short notes on things I learn while coding.
 | [COUNT(*) vs COUNT(column)](sql-server/2026-06-07-count-vs-count-column.md) | 2026/06/07 |
 | [WHERE filters rows, HAVING filters groups](sql-server/2026-06-07-where-filters-rows-having-filters-groups.md) | 2026/06/07 |
 
-## Python (24)
+## Python (25)
 
 | Title | Date |
 |---|---|
 | [sorted() vs list.sort()](python/2026-06-24-sorted-vs-list-sort.md) | 2026/06/24 |
+| [zip and enumerate](python/2026-06-24-zip-and-enumerate.md) | 2026/06/24 |
 | [Ternary expressions and the walrus operator](python/2026-06-22-ternary-expressions-and-the-walrus-operator.md) | 2026/06/22 |
 | [json and datetime basics](python/2026-06-21-json-and-datetime-basics.md) | 2026/06/21 |
 | [dataclasses remove the boilerplate](python/2026-06-19-dataclasses-remove-the-boilerplate.md) | 2026/06/19 |
