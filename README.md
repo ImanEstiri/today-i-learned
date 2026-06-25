@@ -4,7 +4,7 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**64 notes** in **6 categories**
+**65 notes** in **6 categories**
 
 ## .NET (16)
 
@@ -47,10 +47,11 @@ Short notes on things I learn while coding.
 | [Give your stashes a name](git/2026-06-08-give-your-stashes-a-name.md) | 2026/06/08 |
 | [Undo the last commit but keep the changes](git/2026-06-08-undo-the-last-commit-but-keep-the-changes.md) | 2026/06/08 |
 
-## NuGet (1)
+## NuGet (2)
 
 | Title | Date |
 |---|---|
+| [nuget.config is per-repo, not per-machine](nuget/2026-06-25-nuget-config-is-per-repo-not-per-machine.md) | 2026/06/25 |
 | [NuGet versions are immutable](nuget/2026-06-01-nuget-versions-are-immutable.md) | 2026/06/01 |
 
 ## SQL Server (11)
