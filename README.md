@@ -4,12 +4,13 @@ Short notes on things I learn while coding.
 
 <!-- INDEX:START -->
 
-**63 notes** in **6 categories**
+**64 notes** in **6 categories**
 
-## .NET (15)
+## .NET (16)
 
 | Title | Date |
 |---|---|
+| [using and IDisposable](dotnet/2026-06-25-using-and-idisposable.md) | 2026/06/25 |
 | [yield return builds a lazy sequence](dotnet/2026-06-23-yield-return-builds-a-lazy-sequence.md) | 2026/06/23 |
 | [IEnumerable is lazy — it runs every time you enumerate](dotnet/2026-06-21-ienumerable-is-lazy-it-runs-every-time-you-enumerate.md) | 2026/06/21 |
 | [Use StringBuilder in loops, not string +=](dotnet/2026-06-21-use-stringbuilder-in-loops-not-string.md) | 2026/06/21 |
